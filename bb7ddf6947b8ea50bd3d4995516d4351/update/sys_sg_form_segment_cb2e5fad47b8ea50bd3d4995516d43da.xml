@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Activity Stream">032e5fad47b8ea50bd3d4995516d43d5</embedded_screen>
+        <form display_value="Incident Form Screen">cf2e5fad47b8ea50bd3d4995516d43d2</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>20</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>shramaha</sys_created_by>
+        <sys_created_on>2025-04-09 11:38:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cb2e5fad47b8ea50bd3d4995516d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="WTO" source="x_cisit_wto">bb7ddf6947b8ea50bd3d4995516d4351</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="WTO">bb7ddf6947b8ea50bd3d4995516d4351</sys_scope>
+        <sys_update_name>sys_sg_form_segment_cb2e5fad47b8ea50bd3d4995516d43da</sys_update_name>
+        <sys_updated_by>shramaha</sys_updated_by>
+        <sys_updated_on>2025-04-09 11:38:39</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

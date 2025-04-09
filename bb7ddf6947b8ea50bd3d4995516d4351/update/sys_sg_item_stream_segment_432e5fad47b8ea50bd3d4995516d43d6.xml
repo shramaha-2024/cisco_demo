@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Incident Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Incidents">4f2e5fad47b8ea50bd3d4995516d43c4</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>shramaha</sys_created_by>
+        <sys_created_on>2025-04-09 11:38:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>432e5fad47b8ea50bd3d4995516d43d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Item Stream Segment</sys_name>
+        <sys_package display_value="WTO" source="x_cisit_wto">bb7ddf6947b8ea50bd3d4995516d4351</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="WTO">bb7ddf6947b8ea50bd3d4995516d4351</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_432e5fad47b8ea50bd3d4995516d43d6</sys_update_name>
+        <sys_updated_by>shramaha</sys_updated_by>
+        <sys_updated_on>2025-04-09 11:38:39</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

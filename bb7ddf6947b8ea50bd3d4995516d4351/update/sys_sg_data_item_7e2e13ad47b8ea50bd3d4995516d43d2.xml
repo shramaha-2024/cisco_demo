@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>WTO Incident</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>shramaha</sys_created_by>
+        <sys_created_on>2025-04-09 11:38:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7e2e13ad47b8ea50bd3d4995516d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WTO Incident</sys_name>
+        <sys_package display_value="WTO" source="x_cisit_wto">bb7ddf6947b8ea50bd3d4995516d4351</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="WTO">bb7ddf6947b8ea50bd3d4995516d4351</sys_scope>
+        <sys_update_name>sys_sg_data_item_7e2e13ad47b8ea50bd3d4995516d43d2</sys_update_name>
+        <sys_updated_by>shramaha</sys_updated_by>
+        <sys_updated_on>2025-04-09 11:38:38</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+</record_update>
